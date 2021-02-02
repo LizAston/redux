@@ -1,0 +1,4 @@
+[2021-02-02 16:22:14.716] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/usr/.vscode'
+[2021-02-02 16:22:19.254] [renderer1] [warning] [File Watcher (chokidar)] Error: Circular symlink detected: "/usr/bin/X11" points to "/usr/bin"
+[2021-02-02 16:22:20.558] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-02-02 16:22:20.558] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)

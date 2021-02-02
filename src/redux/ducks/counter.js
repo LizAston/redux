@@ -13,6 +13,7 @@ const initialState = {
     count: 0
 };
 
+// eslint-disable-next-line
 export default(state = initialState, action) => {
     switch(action.type) {
       case INCREMENT:
