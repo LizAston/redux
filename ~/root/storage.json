@@ -154,13 +154,6 @@
                                 {
                                     "id": "workbench.action.selectIconTheme",
                                     "label": "File &&Icon Theme"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
-                                    "id": "workbench.userDataSync.actions.turnOn",
-                                    "label": "Turn on Settings Sync..."
                                 }
                             ]
                         }
@@ -1465,11 +1458,11 @@
     "windowsState": {
         "lastActiveWindow": {
             "folder": "file:///usr",
-            "backupPath": "/home/liz/Desktop/Training/React/redux/~/root/Backups/7d8fdfd7c15a233be456f2a7a7f5337a",
+            "backupPath": "/home/liz/Desktop/Training/React/reduxProject/~/root/Backups/7d8fdfd7c15a233be456f2a7a7f5337a",
             "uiState": {
                 "mode": 1,
                 "x": 448,
-                "y": 267,
+                "y": 312,
                 "width": 1024,
                 "height": 768
             }

@@ -1,0 +1,1 @@
+[2021-02-02 10:42:54.592] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/usr/.vscode'
