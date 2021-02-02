@@ -1,0 +1,2 @@
+[2021-02-02 09:35:33.329] [sharedprocess] [info] main {"machineId":"fe44600c08d0ddd34b3fa1768892a4821cfd9e63d2593e12e57c98e63fdf7ea3","windowId":2}
+[2021-02-02 09:35:33.386] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/liz/Desktop/Training/React/redux/~/root/User/snippets'
